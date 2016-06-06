@@ -1,2 +1,4 @@
-# scrollsoundexperiment
-Using Ehsan Ziya's scroll sound codes to experiment
+##Scrolling Through Sound
+###Scrolling as a method of interaction with audio on the web
+
+Accompanying Prototype for Web Audio Conference Paper Submission
